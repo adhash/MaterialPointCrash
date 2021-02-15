@@ -1,10 +1,3 @@
-//
-//  SymulationOperation.swift
-//  MaterialPointCrash
-//
-//  Created by wojtek on 04/09/2020.
-//
-
 import Foundation
 import UIKit
 
