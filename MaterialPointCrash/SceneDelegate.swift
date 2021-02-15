@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  MaterialPointCrash
-//
-//  Created by wojtek on 13/08/2020.
-//
-
 import UIKit
 
 @available(iOS 13, *)
