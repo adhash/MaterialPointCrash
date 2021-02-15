@@ -1,10 +1,3 @@
-//
-//  MaterialPointCrashTests.swift
-//  MaterialPointCrashTests
-//
-//  Created by wojtek on 13/08/2020.
-//
-
 import XCTest
 @testable import MaterialPointCrash
 
