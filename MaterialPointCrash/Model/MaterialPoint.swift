@@ -1,10 +1,3 @@
-//
-//  MaterialPoint.swift
-//  MaterialPointCrash
-//
-//  Created by wojtek on 01/09/2020.
-//
-
 import Foundation
 
 class MaterialPoint {
